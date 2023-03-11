@@ -30,12 +30,16 @@ This is a place to share my works on open CS courses. This is aimed to record my
 | [MIT 18.103 Fourier Analysis](https://ocw.mit.edu/courses/18-103-fourier-analysis-fall-2013/)      | Fourier analysis      | Not started   |
 | [MIT 18.03SC Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)      | ODE      | Not started   |
 | [MIT 18.152 Introduction To Partial Differential Equations](https://ocw.mit.edu/courses/18-152-introduction-to-partial-differential-equations-fall-2011/)      | PDE      | Not started   |
+| [EE364a: Convex Optimization I](https://stanford.edu/class/ee364a/index.html), [Lectures](https://www.youtube.com/watch?v=VNON98dKjno&list=PLoCMsyE1cvdXeoqd1hGaMBsCAQQ6otUtO)      | Optimizations      | Not started   |
+| [EE364b: Convex Optimization II](https://stanford.edu/class/ee364b/index.html), [Lectures](http://videolectures.net/stanfordee364bs08_convex_optimization2/)      | Optimizations      | Not started   |
 | [MIT 18.385J Nonlinear Dynamics And Chaos](https://ocw.mit.edu/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/)      | Chaos      | Not started   |
 |	|	|
 | [MIT 18.901 Introduction To Topology](https://ocw.mit.edu/courses/18-901-introduction-to-topology-fall-2004/)      | Topology      | Not started   |
+| [MATH7450 Topics in Topology: Scientific and Engineering Applications of Algebraic Topology](http://homepage.math.uiowa.edu/~idarcy/COURSES/TDA/TDAprelectures.html)      | Topology      | Not started   |
 | [MIT 18.905 Algebraic Topology I](https://ocw.mit.edu/courses/18-905-algebraic-topology-i-fall-2016/)      | Topology      | Not started   |
 | [MIT 18.906 Algebraic Topology II](https://ocw.mit.edu/courses/18-906-algebraic-topology-ii-spring-2020/)      | Topology      | Not started   |
 | [Cornell MATH4540 Differential geometry](https://e.math.cornell.edu/people/belk/differentialgeometry/index.htm)      | Differential geometry      | Not started   |
+| [CMU 15-458 Discrete Differential Geometry](https://brickisland.net/DDGSpring2021/), [Lectures](https://www.youtube.com/watch?v=mas-PUA3OvA&list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)      | Differential geometry      | Not started   |
 | [MIT 18.965 Geometry Of Manifolds](https://ocw.mit.edu/courses/18-965-geometry-of-manifolds-fall-2004/)      | Differential topology      | Not started   |
 | [MIT 18.966 Geometry Of Manifolds](https://ocw.mit.edu/courses/18-966-geometry-of-manifolds-spring-2007/)      | Differential topology      | Not started   |
 |	|	|
@@ -53,8 +57,9 @@ This is a place to share my works on open CS courses. This is aimed to record my
 | [MIT 18.S096 Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-725-algebraic-geometry-fall-2015/)      | Financial Mathematics      | Not started   |
 |	|	|
 | [MIT 18.404J Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)      | Computational theory      | Not started   |
-| [MIT 18.405J Advanced Complexity Theory](https://ocw.mit.edu/courses/18-405j-advanced-complexity-theory-spring-2016/)      | Computational theory      | Not started   |
-| [MIT 18.435J Quantum Computation](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/)      | Computational theory      | Not started   |
+| [CMU 15-855 Graduate Computational Complexity Theory](https://www.cs.cmu.edu/~odonnell/complexity17/)      | Computational theory      | Not started   |
+| [CMU 15-859BB Quantum Computation and Quantum Information](https://www.cs.cmu.edu/~odonnell/quantum18/)      | Computational theory      | Not started   |
+| [MIT 6.842 Randomness and Computation](https://people.csail.mit.edu/ronitt/COURSE/S22/index.html)      | Computational theory      | Not started   |
 |	|	|
 | [MIT 5.95J Teaching College-Level Science And Engineering](https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/)      | Teaching      | Not started   |
 
