@@ -5,6 +5,7 @@ This is a place to share my works on open CS courses. This is aimed to record my
 | Course      | Learning point | Status     |
 | :---        | :----          | :---       |
 | [CMU Putnam Seminar](https://www.youtube.com/playlist?list=PLCUfTi5kXIAlUdgk3F49-5kRTJiCuNGNk)      | Problem solving      | Not started   |
+| [Math 475 - Problem Solving Seminar](http://www.math.toronto.edu/~drorbn/classes/16-475-ProblemSolving/)      | Problem solving      | Not started   |
 |	|	|
 | [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)      | Linear algebra      | Not started   |
 | [MIT 18.712 Introduction To Representation Theory](https://ocw.mit.edu/courses/18-712-introduction-to-representation-theory-fall-2010/pages/syllabus/)      | Representation theory      | Not started   |
@@ -38,6 +39,7 @@ This is a place to share my works on open CS courses. This is aimed to record my
 | [MATH7450 Topics in Topology: Scientific and Engineering Applications of Algebraic Topology](http://homepage.math.uiowa.edu/~idarcy/COURSES/TDA/TDAprelectures.html)      | Topology      | Not started   |
 | [MIT 18.905 Algebraic Topology I](https://ocw.mit.edu/courses/18-905-algebraic-topology-i-fall-2016/)      | Topology      | Not started   |
 | [MIT 18.906 Algebraic Topology II](https://ocw.mit.edu/courses/18-906-algebraic-topology-ii-spring-2020/)      | Topology      | Not started   |
+| [MAT1350F - Algebraic Knot Theory and Computation](http://www.math.toronto.edu/~drorbn/classes/21-1350-KnotTheory/)      | Knot theory      | Not started   |
 | [Cornell MATH4540 Differential geometry](https://e.math.cornell.edu/people/belk/differentialgeometry/index.htm)      | Differential geometry      | Not started   |
 | [CMU 15-458 Discrete Differential Geometry](https://brickisland.net/DDGSpring2021/), [Lectures](https://www.youtube.com/watch?v=mas-PUA3OvA&list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)      | Differential geometry      | Not started   |
 | [MIT 18.965 Geometry Of Manifolds](https://ocw.mit.edu/courses/18-965-geometry-of-manifolds-fall-2004/)      | Differential topology      | Not started   |
