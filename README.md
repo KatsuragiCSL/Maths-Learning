@@ -4,6 +4,9 @@ This is a place to share my works on open CS courses. This is aimed to record my
 **Course list**
 | Course      | Learning point | Status     |
 | :---        | :----          | :---       |
+| [The Art of Insight in Science and Engineering Mastering Complexity](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549)      | Problem solving      | Not started   |
+| [Guesstimation: Solving the World's Problems on the Back of a Cocktail Napkin](https://www.amazon.com/Guesstimation-Solving-Worlds-Problems-Cocktail/dp/0691129495)      | Problem solving      | Not started   |
+| [Guesstimation 2.0: Solving Today's Problems on the Back of a Napkin](https://www.amazon.com/Guesstimation-2-0-Solving-Todays-Problems/dp/069115080X)      | Problem solving      | Not started   |
 | [CMU Putnam Seminar](https://www.youtube.com/playlist?list=PLCUfTi5kXIAlUdgk3F49-5kRTJiCuNGNk)      | Problem solving      | Not started   |
 | [Math 475 - Problem Solving Seminar](http://www.math.toronto.edu/~drorbn/classes/16-475-ProblemSolving/)      | Problem solving      | Not started   |
 |	|	|
@@ -27,6 +30,7 @@ This is a place to share my works on open CS courses. This is aimed to record my
 | [MIT 18.100A Real analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)      | Real analysis      | Not started   |
 | [MIT 18.112 Functions Of A Complex Variable](https://ocw.mit.edu/courses/18-112-functions-of-a-complex-variable-fall-2008/)      | Complex analysis      | Not started   |
 | [MIT 18.101 Analysis II](https://ocw.mit.edu/courses/18-101-analysis-ii-fall-2005/)      | Manifolds      | Not started   |
+| [Calculus of Variations](https://www.amazon.com/Calculus-Variations-Dover-Books-Mathematics/dp/0486414485)      | Calculus of variations      | Not started   |
 | [MIT 18.102 Introduction To Functional Analysis](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/)      | Functional analysis      | Not started   |
 | [MIT 18.103 Fourier Analysis](https://ocw.mit.edu/courses/18-103-fourier-analysis-fall-2013/)      | Fourier analysis      | Not started   |
 | [MIT 18.03SC Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)      | ODE      | Not started   |
@@ -40,6 +44,7 @@ This is a place to share my works on open CS courses. This is aimed to record my
 | [MIT 18.905 Algebraic Topology I](https://ocw.mit.edu/courses/18-905-algebraic-topology-i-fall-2016/)      | Topology      | Not started   |
 | [MIT 18.906 Algebraic Topology II](https://ocw.mit.edu/courses/18-906-algebraic-topology-ii-spring-2020/)      | Topology      | Not started   |
 | [MAT1350F - Algebraic Knot Theory and Computation](http://www.math.toronto.edu/~drorbn/classes/21-1350-KnotTheory/)      | Knot theory      | Not started   |
+| [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com/)      | Geometry      | Not started   |
 | [Cornell MATH4540 Differential geometry](https://e.math.cornell.edu/people/belk/differentialgeometry/index.htm)      | Differential geometry      | Not started   |
 | [CMU 15-458 Discrete Differential Geometry](https://brickisland.net/DDGSpring2021/), [Lectures](https://www.youtube.com/watch?v=mas-PUA3OvA&list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)      | Differential geometry      | Not started   |
 | [MIT 18.965 Geometry Of Manifolds](https://ocw.mit.edu/courses/18-965-geometry-of-manifolds-fall-2004/)      | Differential topology      | Not started   |
@@ -49,6 +54,7 @@ This is a place to share my works on open CS courses. This is aimed to record my
 | [MIT 18.217 Graph Theory And Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/)      | Combinatorics      | Not started   |
 | [MIT 18.212 Algebraic Combinatorics](https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/)      | Combinatorics      | Not started   |
 | [MIT 18.226 Probabilistic Method In Combinatorics](https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/pages/syllabus/)      | Combinatorics      | Not started   |
+| [A Course in Game Theory](https://mitpress.mit.edu/9780262150415/)      | Game Theory      | Not started   |
 |	|	|
 | [MIT 18.600 Probability And Random Variables](https://ocw.mit.edu/courses/18-600-probability-and-random-variables-fall-2019/)      | Probability and Statistics      | Not started   |
 | [MIT 18.175 Theory Of Probability](https://ocw.mit.edu/courses/18-175-theory-of-probability-spring-2014/)      | Probability and Statistics      | Not started   |
