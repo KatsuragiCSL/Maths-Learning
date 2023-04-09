@@ -64,9 +64,10 @@ This is a place to share my works on open CS courses. This is aimed to record my
 | [MIT 18.335J Introduction To Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)      | Numerical analysis      | Not started   |
 | [MIT 18.S096 Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-725-algebraic-geometry-fall-2015/)      | Financial Mathematics      | Not started   |
 |	|	|
+| [Beginning Mathematical Logic: A Study Guide](https://www.amazon.com/Beginning-Mathematical-Logic-Study-Guide/dp/1916906338)      | Logic      | Not started   |
 | [MIT 18.404J Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)      | Computational theory      | Not started   |
 | [CMU 15-855 Graduate Computational Complexity Theory](https://www.cs.cmu.edu/~odonnell/complexity17/)      | Computational theory      | Not started   |
-| [CMU 15-859BB Quantum Computation and Quantum Information](https://www.cs.cmu.edu/~odonnell/quantum18/)      | Computational theory      | Not started   |
+| [CMU 15-859BB Quantum Computation and Quantum Information](https://www.cs.cmu.edu/~odonnell/quantum18/)      | Quantum Computation     | Not started   |
 | [MIT 6.842 Randomness and Computation](https://people.csail.mit.edu/ronitt/COURSE/S22/index.html)      | Computational theory      | Not started   |
 |	|	|
 | [MIT 5.95J Teaching College-Level Science And Engineering](https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/)      | Teaching      | Not started   |
