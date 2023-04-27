@@ -55,6 +55,7 @@ This is a place to share my works on open CS courses. This is aimed to record my
 | [MIT 18.212 Algebraic Combinatorics](https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/)      | Combinatorics      | Not started   |
 | [MIT 18.226 Probabilistic Method In Combinatorics](https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/pages/syllabus/)      | Combinatorics      | Not started   |
 | [A Course in Game Theory](https://mitpress.mit.edu/9780262150415/)      | Game Theory      | Not started   |
+| [Games of Strategy](https://www.amazon.com/Games-Strategy-Fourth-Avinash-Dixit/dp/0393124444)      | Game Theory      | Not started   |
 |	|	|
 | [MIT 18.600 Probability And Random Variables](https://ocw.mit.edu/courses/18-600-probability-and-random-variables-fall-2019/)      | Probability and Statistics      | Not started   |
 | [MIT 18.175 Theory Of Probability](https://ocw.mit.edu/courses/18-175-theory-of-probability-spring-2014/)      | Probability and Statistics      | Not started   |
