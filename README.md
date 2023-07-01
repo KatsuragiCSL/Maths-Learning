@@ -1,5 +1,5 @@
-# Open-CS-Courses-works
-This is a place to share my works on open CS courses. This is aimed to record my learning path 
+# Open-Maths-Courses-works
+This is a place to share my works on open Maths courses, books and exercises. This is aimed to record my learning path 
 
 **Course list**
 | Course      | Learning point | Status     |
