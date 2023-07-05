@@ -2,8 +2,8 @@
 This is a place to share my works on open Maths courses, books and exercises. This is aimed to record my learning path 
 
 **Course list**
-| Course      | Learning point | Status     |
-| :---        | :----          | :---       |
+| Course      | Learning point | Status     | Works	|
+| :---        | :----          | :---       | :---	|
 | [The Art of Insight in Science and Engineering Mastering Complexity](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549)      | Problem solving      | Not started   |
 | [Guesstimation: Solving the World's Problems on the Back of a Cocktail Napkin](https://www.amazon.com/Guesstimation-Solving-Worlds-Problems-Cocktail/dp/0691129495)      | Problem solving      | Not started   |
 | [Guesstimation 2.0: Solving Today's Problems on the Back of a Napkin](https://www.amazon.com/Guesstimation-2-0-Solving-Todays-Problems/dp/069115080X)      | Problem solving      | Not started   |
