@@ -9,6 +9,9 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [Guesstimation 2.0: Solving Today's Problems on the Back of a Napkin](https://www.amazon.com/Guesstimation-2-0-Solving-Todays-Problems/dp/069115080X)      | Problem solving      | Not started   |
 | [CMU Putnam Seminar](https://www.youtube.com/playlist?list=PLCUfTi5kXIAlUdgk3F49-5kRTJiCuNGNk)      | Problem solving      | Not started   |
 | [Math 475 - Problem Solving Seminar](http://www.math.toronto.edu/~drorbn/classes/16-475-ProblemSolving/)      | Problem solving      | Not started   |
+| [Proofs from THE BOOK](https://www.amazon.com/Proofs-BOOK-Martin-Aigner/dp/3642008550)	|	inspiring proofs	|	Not started	|
+| [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X)	|	Classics	|	Not started	|
+| [Introduction to Mathematical Thinking](https://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin/dp/0615653634)	|	Problem solving	|	Not started	|
 |	|	|
 | [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)      | Linear algebra      | Not started   |
 | [MIT 18.712 Introduction To Representation Theory](https://ocw.mit.edu/courses/18-712-introduction-to-representation-theory-fall-2010/pages/syllabus/)      | Representation theory      | Not started   |
