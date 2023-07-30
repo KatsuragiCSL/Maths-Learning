@@ -24,11 +24,13 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [MIT 18.783 Elliptic Curves](https://math.mit.edu/classes/18.783/2022/index.html)      | Elliptic curves      | Not started   |
 | [MIT 18.S097 Applied Category Theory](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/)      | Category theory      | Not started   |
 |	|	|
+| [An Introduction to the Theory of Numbers](https://www.amazon.com/Introduction-Theory-Numbers-Ivan-Niven/dp/0471625469)	|	Number theory      | Not started   |
 | [MIT 18.781 Theory of numbers](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/)      | Number theory      | Not started   |
 | [MIT 18.785 Number theory I](https://ocw.mit.edu/courses/18-785-number-theory-i-fall-2021/)      | Number theory      | Not started   |
 | [MIT 18.785 Number theory II](https://ocw.mit.edu/courses/18-786-number-theory-ii-class-field-theory-spring-2016/)      | Number theory      | Not started   |
 | [MIT 18.782 Introduction To Arithmetic Geometry](https://ocw.mit.edu/courses/18-782-introduction-to-arithmetic-geometry-fall-2013/)      | Arithmetic geometry      | Not started   |
 | [MIT 18.786 Topics In Algebraic Number Theory](https://ocw.mit.edu/courses/18-786-topics-in-algebraic-number-theory-spring-2006/)      | Number theory      | Not started   |
+| [Introduction to Lattices and Order](https://www.amazon.com/Introduction-Lattices-Order-B-Davey/dp/0521784514)	|	Lattice theory	|	Not started	|
 |	|	|
 | [MIT 18.100A Real analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)      | Real analysis      | Not started   |
 | [MIT 18.112 Functions Of A Complex Variable](https://ocw.mit.edu/courses/18-112-functions-of-a-complex-variable-fall-2008/)      | Complex analysis      | Not started   |
