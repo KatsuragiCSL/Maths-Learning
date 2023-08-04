@@ -66,6 +66,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [MIT 18.S096 Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-725-algebraic-geometry-fall-2015/)      | Financial Mathematics      | Not started   |
 |	|	|
 | [Beginning Mathematical Logic: A Study Guide](https://www.amazon.com/Beginning-Mathematical-Logic-Study-Guide/dp/1916906338)      | Logic      | Not started   |
+| [Logic Matters](https://www.logicmatters.net/tyl/)	|	Logic	|	Not started   |
 | [MIT 18.404J Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)      | Computational theory      | Not started   |
 | [CMU 15-855 Graduate Computational Complexity Theory](https://www.cs.cmu.edu/~odonnell/complexity17/)      | Computational theory      | Not started   |
 | [CMU 15-859BB Quantum Computation and Quantum Information](https://www.cs.cmu.edu/~odonnell/quantum18/)      | Quantum Computation     | Not started   |
