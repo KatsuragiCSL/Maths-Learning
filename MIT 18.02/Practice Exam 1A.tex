@@ -1,0 +1,60 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath}
+
+\title{MIT18.02exam1a}
+\author{shue87655421 }
+\date{August 2023}
+
+\begin{document}
+
+\maketitle
+
+\begin{enumerate}
+\item Problem 1
+
+\begin{enumerate}
+    \item 
+    \begin{align}
+        \vec{OQ}&=\widehat{i}+\widehat{j}+\widehat{k}\\
+        \vec{OR}&=\frac{1}{2}\widehat{i}+\widehat{j}+\frac{1}{2}\widehat{k}\
+    \end{align}
+    
+    \item
+    \begin{align*}
+        \| \vec{OQ}\| &=\sqrt{3}\\
+        \| \vec{OR}\| &=\sqrt{\frac{3}{2}}\\
+        \|\vec{OQ} \cdot \vec{OR}\| &= 2\\
+        cos\theta &= \frac{\|\vec{OQ}t \cdot \vec{OR}\|}{\| \vec{OQ}\| \| \vec{OR}\|}\\
+        &= \frac{2\sqrt{2}}{3}
+    \end{align*}
+\end{enumerate}
+
+\item Problem 6
+    \begin{enumerate}
+    \item 
+    \begin{align*}
+        \dfrac{d}{dt}\left( \vec{R}\cdot \vec{R}\right) =\vec{R}\cdot \dfrac{d}{dt}\vec{R}+\dfrac{d}{dt}\vec{R}\cdot \vec{R} = 2\vec{R}\cdot \vec{V}
+    \end{align*}
+    \item 
+    
+        \text{If } $\vec{R}$ \text{ has constant length, since length of } $\vec{R} = \sqrt{\Vec{R}\cdot \Vec{R}}$\\
+        \text{, hence } $\dfrac{d}{dt}\dfrac{d}{dt}\left( \vec{R}\cdot \vec{R}\right) = 0$\\
+        \text{So }$\vec{R}\cdot \vec{V} = 0 \text{ i.e. } \Vec{R} \perp \Vec{V}$
+    \item 
+    \begin{align*}
+        \dfrac{d}{dt}\left( \vec{R}\cdot \vec{V}\right) &=\vec{R}\cdot \dfrac{d}{dt}\vec{V}+\dfrac{d}{dt}\vec{R}\cdot \vec{V}\\
+        &=\vec{R}\cdot \Vec{A} + \vec{V}\cdot \Vec{V}
+    \end{align*}
+    Since $\Vec{R} \perp \Vec{V}$, $\vec{R}\cdot \vec{V} = 0$.\\
+    Hence
+    \begin{align*}
+        \vec{R}\cdot \Vec{A} = -\|\Vec{V}\|^2
+    \end{align*}
+    \end{enumerate}
+
+
+\end{enumerate}
+
+\end{document}
+

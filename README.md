@@ -2,20 +2,19 @@
 This is a place to share my works on open Maths courses, books and exercises. This is aimed to record my learning path 
 
 **Course list**
-| Course      | Learning point | Status     | Works	|
-| :---        | :----          | :---       | :---	|
-| [The Art of Insight in Science and Engineering Mastering Complexity](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549)      | Problem solving      | In progress   |
+| Course      | Learning point | Status     |
+| :---        | :----          | :---       |
+| [The Art of Insight in Science and Engineering Mastering Complexity](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549)      | Problem solving      | Done   |
 | [Guesstimation: Solving the World's Problems on the Back of a Cocktail Napkin](https://www.amazon.com/Guesstimation-Solving-Worlds-Problems-Cocktail/dp/0691129495)      | Problem solving      | Not started   |
 | [Guesstimation 2.0: Solving Today's Problems on the Back of a Napkin](https://www.amazon.com/Guesstimation-2-0-Solving-Todays-Problems/dp/069115080X)      | Problem solving      | Not started   |
 | [CMU Putnam Seminar](https://www.youtube.com/playlist?list=PLCUfTi5kXIAlUdgk3F49-5kRTJiCuNGNk)      | Problem solving      | Not started   |
-| [Math 475 - Problem Solving Seminar](http://www.math.toronto.edu/~drorbn/classes/16-475-ProblemSolving/)      | Problem solving      | Not started   |
 | [Proofs from THE BOOK](https://www.amazon.com/Proofs-BOOK-Martin-Aigner/dp/3642008550)	|	inspiring proofs	|	Not started	|
-| [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X)	|	Classics	|	Not started	|
+| [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X)	|	Classics	|	Done	|
 | [Introduction to Mathematical Thinking](https://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin/dp/0615653634)	|	Problem solving	|	Not started	|
 |	|	|
-| [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)      | Linear algebra      | Not started   |
+| [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)      | Linear algebra      | In progress   |
 | [MIT 18.712 Introduction To Representation Theory](https://ocw.mit.edu/courses/18-712-introduction-to-representation-theory-fall-2010/pages/syllabus/)      | Representation theory      | Not started   |
-| [MIT 18.701 Algebra I](https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/)      | Algebra      | Not started   |
+| [MIT 18.701 Algebra I](https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/)      | Algebra      | In progress   |
 | [MIT 18.702 Algebra II](https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/)      | Algebra      | Not started   |
 | [MIT 18.721 Introduction To Algebraic Geometry](https://math.mit.edu/classes/18.721/Fall2021/index.html)      | Algebraic Geometry      | Not started   |
 | [MIT 18.705 Commutative Algebra](https://ocw.mit.edu/courses/18-705-commutative-algebra-fall-2008/)      | Commutative algebra      | Not started   |
@@ -32,6 +31,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [MIT 18.786 Topics In Algebraic Number Theory](https://ocw.mit.edu/courses/18-786-topics-in-algebraic-number-theory-spring-2006/)      | Number theory      | Not started   |
 | [Introduction to Lattices and Order](https://www.amazon.com/Introduction-Lattices-Order-B-Davey/dp/0521784514)	|	Lattice theory	|	Not started	|
 |	|	|
+| [MIT 18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)	|	calculus	|	In progress	|
 | [MIT 18.100A Real analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)      | Real analysis      | Not started   |
 | [MIT 18.112 Functions Of A Complex Variable](https://ocw.mit.edu/courses/18-112-functions-of-a-complex-variable-fall-2008/)      | Complex analysis      | Not started   |
 | [MIT 18.101 Analysis II](https://ocw.mit.edu/courses/18-101-analysis-ii-fall-2005/)      | Manifolds      | Not started   |
