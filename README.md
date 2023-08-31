@@ -62,6 +62,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [A Course in Game Theory](https://mitpress.mit.edu/9780262150415/)      | Game Theory      | Not started   |
 | [Games of Strategy](https://www.amazon.com/Games-Strategy-Fourth-Avinash-Dixit/dp/0393124444)      | Game Theory      | Not started   |
 |	|	|
+| [MIT 18.330 Introduction To Numerical Analysis](https://github.com/mitmath/18330)	|	Numerical analysis      | Not started   |
 | [MIT 18.335J Introduction To Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)      | Numerical analysis      | Not started   |
 | [MIT 18.S096 Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-725-algebraic-geometry-fall-2015/)      | Financial Mathematics      | Not started   |
 |	|	|
