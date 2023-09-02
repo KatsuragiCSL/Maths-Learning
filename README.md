@@ -32,9 +32,10 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [Introduction to Lattices and Order](https://www.amazon.com/Introduction-Lattices-Order-B-Davey/dp/0521784514)	|	Lattice theory	|	Not started	|
 |	|	|
 | [MIT 18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)	|	calculus	|	In progress	|
-| [MIT 18.100A Real analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)      | Real analysis      | Not started   |
+| [MIT 18.100B Analysis II](https://ocw.mit.edu/courses/18-100b-analysis-i-fall-2010)	|	real analysis	|	Not started	|
 | [MIT 18.112 Functions Of A Complex Variable](https://ocw.mit.edu/courses/18-112-functions-of-a-complex-variable-fall-2008/)      | Complex analysis      | Not started   |
 | [MIT 18.101 Analysis II](https://ocw.mit.edu/courses/18-101-analysis-ii-fall-2005/)      | Manifolds      | Not started   |
+| [MIT 18.125 Measure and Intergration](https://ocw.mit.edu/courses/18-125-measure-and-integration-fall-2003/)	|	advanced real analysis	|	Not started	|
 | [Calculus of Variations](https://www.amazon.com/Calculus-Variations-Dover-Books-Mathematics/dp/0486414485)      | Calculus of variations      | Not started   |
 | [MIT 18.102 Introduction To Functional Analysis](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/)      | Functional analysis      | Not started   |
 | [MIT 18.103 Fourier Analysis](https://ocw.mit.edu/courses/18-103-fourier-analysis-fall-2013/)      | Fourier analysis      | Not started   |
@@ -56,6 +57,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [MIT 18.966 Geometry Of Manifolds](https://ocw.mit.edu/courses/18-966-geometry-of-manifolds-spring-2007/)      | Differential topology      | Not started   |
 |	|	|
 | [MIT 18.314 Combinatorial Analysis](https://ocw.mit.edu/courses/18-314-combinatorial-analysis-fall-2014/)      | Combinatorics      | Not started   |
+| [Introduction to Graph Theory](https://www.amazon.com/Introduction-Graph-Theory-Douglas-West/dp/0130144002)	|	graphy theory	|	Not started	|
 | [MIT 18.217 Graph Theory And Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/)      | Combinatorics      | Not started   |
 | [MIT 18.212 Algebraic Combinatorics](https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/)      | Combinatorics      | Not started   |
 | [MIT 18.226 Probabilistic Method In Combinatorics](https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/pages/syllabus/)      | Combinatorics      | Not started   |
@@ -74,4 +76,3 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [MIT 6.842 Randomness and Computation](https://people.csail.mit.edu/ronitt/COURSE/S22/index.html)      | Computational theory      | Not started   |
 |	|	|
 | [MIT 5.95J Teaching College-Level Science And Engineering](https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/)      | Teaching      | Not started   |
-| [MIT 18.821 Project Laboratory In Mathematics](https://ocw.mit.edu/courses/18-821-project-laboratory-in-mathematics-spring-2013/)	|	Introduction to mathematical research	|	Not started   |
