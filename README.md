@@ -32,8 +32,8 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [Introduction to Lattices and Order](https://www.amazon.com/Introduction-Lattices-Order-B-Davey/dp/0521784514)	|	Lattice theory	|	Not started	|
 |	|	|
 | [MIT 18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)	|	calculus	|	In progress	|
-| [MIT 18.100B Analysis II](https://ocw.mit.edu/courses/18-100b-analysis-i-fall-2010)	|	real analysis	|	Not started	|
 | [MIT 18.112 Functions Of A Complex Variable](https://ocw.mit.edu/courses/18-112-functions-of-a-complex-variable-fall-2008/)      | Complex analysis      | Not started   |
+| [MIT 18.100B Analysis I](https://ocw.mit.edu/courses/18-100b-analysis-i-fall-2010)	|	real analysis	|	In progress	|
 | [MIT 18.101 Analysis II](https://ocw.mit.edu/courses/18-101-analysis-ii-fall-2005/)      | Manifolds      | Not started   |
 | [MIT 18.125 Measure and Intergration](https://ocw.mit.edu/courses/18-125-measure-and-integration-fall-2003/)	|	advanced real analysis	|	Not started	|
 | [Calculus of Variations](https://www.amazon.com/Calculus-Variations-Dover-Books-Mathematics/dp/0486414485)      | Calculus of variations      | Not started   |
@@ -64,6 +64,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [A Course in Game Theory](https://mitpress.mit.edu/9780262150415/)      | Game Theory      | Not started   |
 | [Games of Strategy](https://www.amazon.com/Games-Strategy-Fourth-Avinash-Dixit/dp/0393124444)      | Game Theory      | Not started   |
 |	|	|
+| [Probability And Random Variables](https://ocw.mit.edu/courses/18-600-probability-and-random-variables-fall-2019)	|	Probability	|	Not started	|
 | [MIT 18.330 Introduction To Numerical Analysis](https://github.com/mitmath/18330)	|	Numerical analysis      | Not started   |
 | [MIT 18.335J Introduction To Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)      | Numerical analysis      | Not started   |
 | [MIT 18.S096 Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-725-algebraic-geometry-fall-2015/)      | Financial Mathematics      | Not started   |
