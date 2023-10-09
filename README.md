@@ -31,7 +31,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [MIT 18.786 Topics In Algebraic Number Theory](https://ocw.mit.edu/courses/18-786-topics-in-algebraic-number-theory-spring-2006/)      | Number theory      | Not started   |
 | [Introduction to Lattices and Order](https://www.amazon.com/Introduction-Lattices-Order-B-Davey/dp/0521784514)	|	Lattice theory	|	Not started	|
 |	|	|
-| [MIT 18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)	|	calculus	|	In progress	|
+| [MIT 18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)	|	calculus	|	Done	|
 | [MIT 18.112 Functions Of A Complex Variable](https://ocw.mit.edu/courses/18-112-functions-of-a-complex-variable-fall-2008/)      | Complex analysis      | Not started   |
 | [MIT 18.100B Analysis I](https://ocw.mit.edu/courses/18-100b-analysis-i-fall-2010)	|	real analysis	|	In progress	|
 | [MIT 18.101 Analysis II](https://ocw.mit.edu/courses/18-101-analysis-ii-fall-2005/)      | Manifolds      | Not started   |
