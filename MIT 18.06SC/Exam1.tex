@@ -1,0 +1,58 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath}
+
+\title{MIT18.06SC Unit 1 Exam}
+\date{August 2023}
+
+\begin{document}
+
+\maketitle
+
+\begin{enumerate}
+\item Problem 1
+
+\begin{enumerate}
+    \item 
+
+        m = 3 \text{ since } Ax \in \mathbf{R}^3\\
+        Ax = \begin{bmatrix}0 \\ 1 \\ 0 \end{bmatrix} \text{has exactly 1 solution} \implies N(A) = 0 \\
+        \implies \text{ row space has dimension } n \implies r = n \\
+        Ax = \begin{bmatrix}1 \\ 1 \\ 1 \end{bmatrix} \text{ has no solution } \implies dim(C(A)) < 3 \implies r < m \\
+        \text{Note that } r \neq 0 \text{, hence the two possible cases are: (i) }\\
+        m = 3 \text{ and } r = n = 1 \text{ (ii) } m = 3 and r = n = 2  
+
+    \item
+    \begin{align*}
+        N(A) = 0 \implies \text{ the only solution to } Ax = 0 \text{ is } 0
+    \end{align*}
+    \item 
+    \begin{align*}
+        \begin{bmatrix}0 \\ 1 \\ 0 \end{bmatrix}
+    \end{align*}
+\end{enumerate}
+
+\item Problem 2
+    \begin{enumerate}
+    \item 
+    \begin{align*}
+        A^{-1} &= E_{23}E_{31}E_{21}\\
+               &= \begin{pmatrix} 1 & 0 & 0 \\ -1 & 1 & -1 \\ -3 & 0 & 1 \end{pmatrix}
+    \end{align*}
+    \item 
+    \begin{align*}
+        A &= E_{21}^{-1}E_{31}^{-1}E_{23}^{-1}\\
+          &= \begin{pmatrix} 1 & 0 & 0 \\ 4 & 1 & 1 \\ 3 & 0 & 1 \end{pmatrix}
+    \end{align*}
+
+    \item 
+    \begin{align*}
+        \mathcal{L} &= \begin{pmatrix} 1 & 0 & 0 \\ 4 & 1 & 0 \\ 3 & 0 & 1 \end{pmatrix}
+    \end{align*}
+    \end{enumerate}
+
+
+\end{enumerate}
+
+\end{document}
+
