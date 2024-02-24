@@ -11,7 +11,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [Proofs from THE BOOK](https://www.amazon.com/Proofs-BOOK-Martin-Aigner/dp/3642008550)	|	inspiring proofs	|	Not started	|
 | [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X)	|	Classics	|	Done	|
 |	|	|
-| [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)      | Linear algebra      | In progress   |
+| [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)      | Linear algebra      | Done   |
 | [MIT 18.712 Introduction To Representation Theory](https://ocw.mit.edu/courses/18-712-introduction-to-representation-theory-fall-2010/pages/syllabus/)      | Representation theory      | Not started   |
 | [MIT 18.701 Algebra I](https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/)      | Algebra      | In progress   |
 | [MIT 18.702 Algebra II](https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/)      | Algebra      | Not started   |
