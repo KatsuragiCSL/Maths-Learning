@@ -68,7 +68,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 |	|	|
 | [Beginning Mathematical Logic: A Study Guide](https://www.amazon.com/Beginning-Mathematical-Logic-Study-Guide/dp/1916906338)      | Logic      | Not started   |
 | [Logic Matters](https://www.logicmatters.net/tyl/)	|	Logic	|	Not started   |
-| [MIT 18.404J Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)      | Computational theory      | Not started   |
+| [MIT 18.404J Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)      | Computational theory      | In progress   |
 | [CMU 15-855 Graduate Computational Complexity Theory](https://www.cs.cmu.edu/~odonnell/complexity17/)      | Computational theory      | Not started   |
 | [CMU 15-859BB Quantum Computation and Quantum Information](https://www.cs.cmu.edu/~odonnell/quantum18/)      | Quantum Computation     | Not started   |
 | [MIT 6.842 Randomness and Computation](https://people.csail.mit.edu/ronitt/COURSE/S22/index.html)      | Computational theory      | Not started   |
