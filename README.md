@@ -7,7 +7,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [The Art of Insight in Science and Engineering Mastering Complexity](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549)      | Problem solving      | Done   |
 | [CMU Putnam Seminar](https://www.youtube.com/playlist?list=PLCUfTi5kXIAlUdgk3F49-5kRTJiCuNGNk)      | Problem solving      | Not started   |
 | [Proofs from THE BOOK](https://www.amazon.com/Proofs-BOOK-Martin-Aigner/dp/3642008550)	|	inspiring proofs	|	Not started	|
-| [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X)	|	Classics	|	Done	|
+| [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X)	|	Problem solving	|	Done	|
 |	|	|
 | [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)      | Linear algebra      | Done   |
 | [MIT 18.712 Introduction To Representation Theory](https://ocw.mit.edu/courses/18-712-introduction-to-representation-theory-fall-2010/pages/syllabus/)      | Representation theory      | Not started   |
@@ -20,7 +20,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [MIT 18.783 Elliptic Curves](https://math.mit.edu/classes/18.783/2022/index.html)      | Elliptic curves      | Not started   |
 | [MIT 18.S097 Applied Category Theory](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/)      | Category theory      | Not started   |
 |	|	|
-| [An Introduction to the Theory of Numbers](https://www.amazon.com/Introduction-Theory-Numbers-Ivan-Niven/dp/0471625469)	|	Number theory      | Not started   |
+| [An Introduction to the Theory of Numbers](https://www.amazon.com/Introduction-Theory-Numbers-Ivan-Niven/dp/0471625469)	|	Number theory      | In progress   |
 | [MIT 18.781 Theory of numbers](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/)      | Number theory      | Not started   |
 | [MIT 18.785 Number theory I](https://ocw.mit.edu/courses/18-785-number-theory-i-fall-2021/)      | Number theory      | Not started   |
 | [MIT 18.785 Number theory II](https://ocw.mit.edu/courses/18-786-number-theory-ii-class-field-theory-spring-2016/)      | Number theory      | Not started   |
@@ -30,7 +30,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 |	|	|
 | [MIT 18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)	|	calculus	|	Done	|
 | [MIT 18.112 Functions Of A Complex Variable](https://ocw.mit.edu/courses/18-112-functions-of-a-complex-variable-fall-2008/)      | Complex analysis      | Not started   |
-| [MIT 18.100B Analysis I](https://ocw.mit.edu/courses/18-100b-analysis-i-fall-2010)	|	real analysis	|	In progress	|
+| [MIT 18.100B Analysis I](https://ocw.mit.edu/courses/18-100b-analysis-i-fall-2010)	|	real analysis	|	Done	|
 | [MIT 18.101 Analysis II](https://ocw.mit.edu/courses/18-101-analysis-ii-fall-2005/)      | Manifolds      | Not started   |
 | [MIT 18.125 Measure and Intergration](https://ocw.mit.edu/courses/18-125-measure-and-integration-fall-2003/)	|	advanced real analysis	|	Not started	|
 | [Calculus of Variations](https://www.amazon.com/Calculus-Variations-Dover-Books-Mathematics/dp/0486414485)      | Calculus of variations      | Not started   |
