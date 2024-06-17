@@ -5,7 +5,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | Course      | Learning point | Status     |
 | :---        | :----          | :---       |
 | [The Art of Insight in Science and Engineering Mastering Complexity](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549)      | Problem solving      | Done   |
-| [CMU Putnam Seminar](https://www.youtube.com/playlist?list=PLCUfTi5kXIAlUdgk3F49-5kRTJiCuNGNk)      | Problem solving      | Not started   |
+| [CMU Putnam Seminar](https://www.youtube.com/playlist?list=PLCUfTi5kXIAlUdgk3F49-5kRTJiCuNGNk)      | Problem solving      | In progress   |
 | [Proofs from THE BOOK](https://www.amazon.com/Proofs-BOOK-Martin-Aigner/dp/3642008550)	|	inspiring proofs	|	Not started	|
 | [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X)	|	Problem solving	|	Done	|
 | [The Cauchy-Schwarz Master Class: An Introduction to the Art of Mathematical Inequalities](https://www.amazon.co.uk/Cauchy-Schwarz-Master-Class-Introduction-Mathematical/dp/052154677X)	|	Inspiring inequalities	|	Not started	|
@@ -21,7 +21,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [MIT 18.783 Elliptic Curves](https://math.mit.edu/classes/18.783/2022/index.html)      | Elliptic curves      | Not started   |
 | [MIT 18.S097 Applied Category Theory](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/)      | Category theory      | Not started   |
 |	|	|
-| [An Introduction to the Theory of Numbers](https://www.amazon.com/Introduction-Theory-Numbers-Ivan-Niven/dp/0471625469)	|	Number theory      | In progress   |
+| [An Introduction to the Theory of Numbers](https://www.amazon.com/Introduction-Theory-Numbers-Ivan-Niven/dp/0471625469), [Lectures](https://www.youtube.com/watch?v=EzE6it9kAsI&list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8)	|	Number theory (Using Richard B lectures)      | In progress   |
 | [MIT 18.785 Number theory I](https://ocw.mit.edu/courses/18-785-number-theory-i-fall-2021/)      | Number theory      | Not started   |
 | [MIT 18.785 Number theory II](https://ocw.mit.edu/courses/18-786-number-theory-ii-class-field-theory-spring-2016/)      | Number theory      | Not started   |
 | [MIT 18.782 Introduction To Arithmetic Geometry](https://ocw.mit.edu/courses/18-782-introduction-to-arithmetic-geometry-fall-2013/)      | Arithmetic geometry      | Not started   |
