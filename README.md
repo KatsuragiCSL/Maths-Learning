@@ -8,7 +8,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [CMU Putnam Seminar](https://www.youtube.com/playlist?list=PLCUfTi5kXIAlUdgk3F49-5kRTJiCuNGNk)      | Problem solving      | In progress   |
 | [Proofs from THE BOOK](https://www.amazon.com/Proofs-BOOK-Martin-Aigner/dp/3642008550)	|	inspiring proofs	|	Not started	|
 | [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X)	|	Problem solving	|	Done	|
-| [The Cauchy-Schwarz Master Class: An Introduction to the Art of Mathematical Inequalities](https://www.amazon.co.uk/Cauchy-Schwarz-Master-Class-Introduction-Mathematical/dp/052154677X)	|	Inspiring inequalities	|	Not started	|
+| [The Cauchy-Schwarz Master Class: An Introduction to the Art of Mathematical Inequalities](https://www.amazon.co.uk/Cauchy-Schwarz-Master-Class-Introduction-Mathematical/dp/052154677X)	|	Inspiring inequalities	|	In progress	|
 |	|	|
 | [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)      | Linear algebra      | Done   |
 | [MIT 18.712 Introduction To Representation Theory](https://ocw.mit.edu/courses/18-712-introduction-to-representation-theory-fall-2010/pages/syllabus/)      | Representation theory      | Not started   |
@@ -67,7 +67,6 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [MIT 18.S096 Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-725-algebraic-geometry-fall-2015/)      | Financial Mathematics      | Not started   |
 |	|	|
 | [Beginning Mathematical Logic: A Study Guide](https://www.amazon.com/Beginning-Mathematical-Logic-Study-Guide/dp/1916906338)      | Logic      | Not started   |
-| [Logic Matters](https://www.logicmatters.net/tyl/)	|	Logic	|	Not started   |
 | [MIT 18.404J Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)      | Computational theory      | Done   |
 | [CMU 15-855 Graduate Computational Complexity Theory](https://www.cs.cmu.edu/~odonnell/complexity17/)      | Computational theory      | Not started   |
 | [CMU 15-859BB Quantum Computation and Quantum Information](https://www.cs.cmu.edu/~odonnell/quantum18/)      | Quantum Computation     | Not started   |
