@@ -4,6 +4,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 **Course list**
 | Course      | Learning point | Status     |
 | :---        | :----          | :---       |
+| [Proofs and Refutations](https://www.amazon.com/Proofs-Refutations-Mathematical-Discovery-Philosophy/dp/1107534054)	|	Mathemtical discovery process discussion	|	In progress	|
 | [The Art of Insight in Science and Engineering Mastering Complexity](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549)      | Problem solving      | Done   |	Generalized some patterns appear in maths problems, like those in "Problem solving strategies" by Arthur Engel. But as general and universally applicable as Polya's works	|
 | [CMU Putnam Seminar](https://www.youtube.com/playlist?list=PLCUfTi5kXIAlUdgk3F49-5kRTJiCuNGNk)      | Problem solving      | Done   |	a bit not advanced enough	|
 | [The Cauchy-Schwarz Master Class: An Introduction to the Art of Mathematical Inequalities](https://www.amazon.co.uk/Cauchy-Schwarz-Master-Class-Introduction-Mathematical/dp/052154677X)	|	Inspiring inequalities	|	In progress	|
