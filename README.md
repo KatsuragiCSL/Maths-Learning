@@ -4,13 +4,11 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 **Course list**
 | Course      | Learning point | Status     |
 | :---        | :----          | :---       |
-| [The Art of Insight in Science and Engineering Mastering Complexity](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549)      | Problem solving      | Done   |
-| [CMU Putnam Seminar](https://www.youtube.com/playlist?list=PLCUfTi5kXIAlUdgk3F49-5kRTJiCuNGNk)      | Problem solving      | Done   |
-| [Proofs from THE BOOK](https://www.amazon.com/Proofs-BOOK-Martin-Aigner/dp/3642008550)	|	inspiring proofs	|	Not started	|
-| [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X)	|	Problem solving	|	Done	|
+| [The Art of Insight in Science and Engineering Mastering Complexity](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549)      | Problem solving      | Done   |	Generalized some patterns appear in maths problems, like those in "Problem solving strategies" by Arthur Engel. But as general and universally applicable as Polya's works	|
+| [CMU Putnam Seminar](https://www.youtube.com/playlist?list=PLCUfTi5kXIAlUdgk3F49-5kRTJiCuNGNk)      | Problem solving      | Done   |	a bit not advanced enough	|
 | [The Cauchy-Schwarz Master Class: An Introduction to the Art of Mathematical Inequalities](https://www.amazon.co.uk/Cauchy-Schwarz-Master-Class-Introduction-Mathematical/dp/052154677X)	|	Inspiring inequalities	|	In progress	|
 |	|	|
-| [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)      | Linear algebra      | Done   |
+| [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)      | Linear algebra      | Done   |	Great coverage and motivation by Gilbert Strang	|
 | [MIT 18.712 Introduction To Representation Theory](https://ocw.mit.edu/courses/18-712-introduction-to-representation-theory-fall-2010/pages/syllabus/)      | Representation theory      | Not started   |
 | [MIT 18.701 Algebra I](https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/)      | Algebra      | In progress   |
 | [MIT 18.702 Algebra II](https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/)      | Algebra      | Not started   |
