@@ -51,6 +51,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [MIT 18.966 Geometry Of Manifolds](https://ocw.mit.edu/courses/18-966-geometry-of-manifolds-spring-2007/)      | Differential topology      | Not started   |
 |	|	|
 | [MIT 18.314 Combinatorial Analysis](https://ocw.mit.edu/courses/18-314-combinatorial-analysis-fall-2014/)      | Combinatorics      | Not started   |
+| [MIT 18.226 Probabilistic Methods in Combinatorics](https://ocw.mit.edu/courses/18-226-probabilistic-methods-in-combinatorics-fall-2022/)	|	probablistic method	|	Not started	|
 | [Introduction to Graph Theory](https://www.amazon.com/Introduction-Graph-Theory-Douglas-West/dp/0130144002)	|	graphy theory	|	Not started	|
 | [MIT 18.217 Graph Theory And Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/)      | Combinatorics      | Not started   |
 | [MIT 18.212 Algebraic Combinatorics](https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/)      | Combinatorics      | Not started   |
