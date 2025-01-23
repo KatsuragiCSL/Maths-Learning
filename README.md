@@ -11,6 +11,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 |	|	|
 | [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)      | Linear algebra      | Done   |	Great coverage and motivation by Gilbert Strang	|
 | [MIT 18.712 Introduction To Representation Theory](https://ocw.mit.edu/courses/18-712-introduction-to-representation-theory-fall-2010/pages/syllabus/)      | Representation theory      | Not started   |
+| [Visual Group Theory](https://www.amazon.com/Visual-Group-Theory-Problem-Book/dp/088385757X)	|	group theory	|	In progress	|
 | [Lectures for the algebra courses below](https://www.youtube.com/watch?v=EPQgeAz264g&list=PLzUeAPxtWcqzr80lS25FrzMn7a36BuXhj)	|	Algebra lectures using Artin's textbook	|	Not started	|
 | [MIT 18.701 Algebra I](https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/)      | Algebra      | In progress   |
 | [MIT 18.702 Algebra II](https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/)      | Algebra      | Not started   |
