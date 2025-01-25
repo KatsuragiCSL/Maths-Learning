@@ -1,8 +1,8 @@
 # Open-Maths-Courses-works
-This is a place to share my works on open Maths courses, books and exercises. This is aimed to record my learning path 
+Learning catalogs on open Maths courses, books etc.
 
 **Course list**
-| Course      | Learning point | Status     |	Comments	|
+| Course/Book      | Category | Status     |	Comments	|
 | :---        | :----          | :---       |	:---		|
 | [Proofs and Refutations](https://www.amazon.com/Proofs-Refutations-Mathematical-Discovery-Philosophy/dp/1107534054)	|	Mathemtical discovery process discussion	|	In progress	|
 | [The Art of Insight in Science and Engineering Mastering Complexity](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549)      | Problem solving      | Done   |	Generalized some patterns appear in maths problems, like those in "Problem solving strategies" by Arthur Engel. But not as general and universally applicable as Polya's works	|
