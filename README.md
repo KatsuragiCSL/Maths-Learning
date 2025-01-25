@@ -2,8 +2,8 @@
 This is a place to share my works on open Maths courses, books and exercises. This is aimed to record my learning path 
 
 **Course list**
-| Course      | Learning point | Status     |
-| :---        | :----          | :---       |
+| Course      | Learning point | Status     |	Comments	|
+| :---        | :----          | :---       |	:---		|
 | [Proofs and Refutations](https://www.amazon.com/Proofs-Refutations-Mathematical-Discovery-Philosophy/dp/1107534054)	|	Mathemtical discovery process discussion	|	In progress	|
 | [The Art of Insight in Science and Engineering Mastering Complexity](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549)      | Problem solving      | Done   |	Generalized some patterns appear in maths problems, like those in "Problem solving strategies" by Arthur Engel. But not as general and universally applicable as Polya's works	|
 | [CMU Putnam Seminar](https://www.youtube.com/playlist?list=PLCUfTi5kXIAlUdgk3F49-5kRTJiCuNGNk)      | Problem solving      | Done   |	a bit not advanced enough	|
@@ -60,7 +60,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [A Course in Game Theory](https://mitpress.mit.edu/9780262150415/)      | Game Theory      | Not started   |
 | [Games of Strategy](https://www.amazon.com/Games-Strategy-Fourth-Avinash-Dixit/dp/0393124444)      | Game Theory      | Not started   |
 |	|	|
-| [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)	|	Probability theory	|	In progress	|
+| [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)	|	Probability theory	|	Done	|	except just skimmed through the last few lectures about statistical inferences	|
 | [A Second Course in Probability](https://www.amazon.com/Second-Course-Probability-Sheldon-Ross-dp-1009179918/dp/1009179918)	|	Probability theory	|	Not started	|
 | [MIT 18.330 Introduction To Numerical Analysis](https://github.com/mitmath/18330)	|	Numerical analysis      | Not started   |
 | [MIT 18.335J Introduction To Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)      | Numerical analysis      | Not started   |
