@@ -30,7 +30,7 @@ This is a place to share my works on open Maths courses, books and exercises. Th
 | [MIT 18.112 Functions Of A Complex Variable](https://ocw.mit.edu/courses/18-112-functions-of-a-complex-variable-fall-2008/)      | Complex analysis      | Not started   |
 | [The Real Numbers](https://www.amazon.com/Real-Numbers-Introduction-Undergraduate-Mathematics/dp/B01FGJUUK4)	|	intro to analysis by john stillwell	|	In progress	|
 | [Analysis I](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics/dp/9380250649)	|	Tao's introductory to real analysis	|	In progress	|	Like a rewrite of Rudin, but way better exposition	|
-| [Analysis II](https://www.amazon.com/Analysis-II-Third-Readings-Mathematics/dp/9380250657)	Tao's introductory to real analysis     |       Not started     |       Like a rewrite of Rudin, but way better exposition      |
+| [Analysis II](https://www.amazon.com/Analysis-II-Third-Readings-Mathematics/dp/9380250657)	|	Tao's introductory to real analysis     |       Not started     |       Like a rewrite of Rudin, but way better exposition      |
 | [Calculus of Variations](https://www.amazon.com/Calculus-Variations-Dover-Books-Mathematics/dp/0486414485)      | Calculus of variations      | Not started   |
 | [MIT 18.102 Introduction To Functional Analysis](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/)      | Functional analysis      | Not started   |
 | [MIT 18.103 Fourier Analysis](https://ocw.mit.edu/courses/18-103-fourier-analysis-fall-2013/)      | Fourier analysis      | Not started   |
