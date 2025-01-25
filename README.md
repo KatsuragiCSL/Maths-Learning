@@ -10,6 +10,7 @@ Learning catalogs on Maths courses, books etc.
 | [The Cauchy-Schwarz Master Class: An Introduction to the Art of Mathematical Inequalities](https://www.amazon.co.uk/Cauchy-Schwarz-Master-Class-Introduction-Mathematical/dp/052154677X)	|	Inspiring inequalities	|	In progress	|
 |	|	|
 | [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)      | Linear algebra      | Done   |	Great coverage and motivation by Gilbert Strang	|
+| [Linear Algebra Done Right](https://linear.axler.net/)	|	Linear algebra	|	In progress	|	A more rigorous exposure to linalg, with a bit more advanced topics	|
 | [MIT 18.712 Introduction To Representation Theory](https://ocw.mit.edu/courses/18-712-introduction-to-representation-theory-fall-2010/pages/syllabus/)      | Representation theory      | Not started   |
 | [Visual Group Theory](https://www.amazon.com/Visual-Group-Theory-Problem-Book/dp/088385757X)	|	group theory	|	In progress	|
 | [Lectures for the algebra courses below](https://www.youtube.com/watch?v=EPQgeAz264g&list=PLzUeAPxtWcqzr80lS25FrzMn7a36BuXhj)	|	Algebra lectures using Artin's textbook	|	Not started	|
@@ -29,8 +30,8 @@ Learning catalogs on Maths courses, books etc.
 | [MIT 18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)	|	calculus	|	Done	|
 | [MIT 18.112 Functions Of A Complex Variable](https://ocw.mit.edu/courses/18-112-functions-of-a-complex-variable-fall-2008/)      | Complex analysis      | Not started   |
 | [The Real Numbers](https://www.amazon.com/Real-Numbers-Introduction-Undergraduate-Mathematics/dp/B01FGJUUK4)	|	intro to analysis by john stillwell	|	In progress	|
-| [Analysis I](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics/dp/9380250649)	|	Tao's introductory to real analysis	|	In progress	|	Like a rewrite of Rudin, but way better exposition	|
-| [Analysis II](https://www.amazon.com/Analysis-II-Third-Readings-Mathematics/dp/9380250657)	|	Tao's introductory to real analysis     |       Not started     |       Like a rewrite of Rudin, but way better exposition      |
+| [Analysis I](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics/dp/9380250649)	|	Tao's introductory to real analysis	|	Done	|	Like a rewrite of Rudin, but way better exposition. Not much exercises, and I got good memory of this part of analysis I learnt in undergrad, so just quickly went through it.	|
+| [Analysis II](https://www.amazon.com/Analysis-II-Third-Readings-Mathematics/dp/9380250657)	|	Tao's introductory to real analysis     |       In progress     |       Like a rewrite of Rudin, but way better exposition      |
 | [Calculus of Variations](https://www.amazon.com/Calculus-Variations-Dover-Books-Mathematics/dp/0486414485)      | Calculus of variations      | Not started   |
 | [MIT 18.102 Introduction To Functional Analysis](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/)      | Functional analysis      | Not started   |
 | [MIT 18.103 Fourier Analysis](https://ocw.mit.edu/courses/18-103-fourier-analysis-fall-2013/)      | Fourier analysis      | Not started   |
@@ -40,7 +41,7 @@ Learning catalogs on Maths courses, books etc.
 | [EE364b: Convex Optimization II](https://stanford.edu/class/ee364b/index.html), [Lectures](http://videolectures.net/stanfordee364bs08_convex_optimization2/)      | Optimizations      | Not started   |
 | [MIT 18.385J Nonlinear Dynamics And Chaos](https://ocw.mit.edu/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/)      | Chaos      | Not started   |
 |	|	|
-| [MIT 18.901 Introduction To Topology](https://ocw.mit.edu/courses/18-901-introduction-to-topology-fall-2004/)      | Topology      | Not started   |
+| [Topology](https://www.amazon.com/-/en/James-Munkres/dp/0134689518/)	|	Topology	|	Not started	|	Read once before, I think I would have more insights if I reread it now	|
 | [MATH7450 Topics in Topology: Scientific and Engineering Applications of Algebraic Topology](http://homepage.math.uiowa.edu/~idarcy/COURSES/TDA/TDAprelectures.html)      | Topology      | Not started   |
 | [MIT 18.905 Algebraic Topology I](https://ocw.mit.edu/courses/18-905-algebraic-topology-i-fall-2016/)      | Topology      | Not started   |
 | [MIT 18.906 Algebraic Topology II](https://ocw.mit.edu/courses/18-906-algebraic-topology-ii-spring-2020/)      | Topology      | Not started   |
