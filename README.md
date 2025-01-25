@@ -1,5 +1,5 @@
 # Maths Learning
-Learning catalogs on open Maths courses, books etc.
+Learning catalogs on Maths courses, books etc.
 
 **Course list**
 | Course/Book      | Category | Status     |	Comments	|
