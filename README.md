@@ -1,4 +1,4 @@
-# Open-Maths-Courses-works
+# Maths Learning
 Learning catalogs on open Maths courses, books etc.
 
 **Course list**
