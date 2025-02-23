@@ -7,7 +7,8 @@ Learning catalogs on Maths courses, books etc.
 | [Proofs and Refutations](https://www.amazon.com/Proofs-Refutations-Mathematical-Discovery-Philosophy/dp/1107534054)	|	Mathemtical discovery process discussion	|	In progress	|
 | [The Art of Insight in Science and Engineering Mastering Complexity](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549)      | Problem solving      | Done   |	Generalized some patterns appear in maths problems, like those in "Problem solving strategies" by Arthur Engel. But not as general and universally applicable as Polya's works	|
 | [CMU Putnam Seminar](https://www.youtube.com/playlist?list=PLCUfTi5kXIAlUdgk3F49-5kRTJiCuNGNk)      | Problem solving      | Done   |	a bit not advanced enough	|
-| [The Cauchy-Schwarz Master Class: An Introduction to the Art of Mathematical Inequalities](https://www.amazon.co.uk/Cauchy-Schwarz-Master-Class-Introduction-Mathematical/dp/052154677X)	|	Inspiring inequalities	|	In progress	|
+| [The Cauchy-Schwarz Master Class: An Introduction to the Art of Mathematical Inequalities](https://www.amazon.co.uk/Cauchy-Schwarz-Master-Class-Introduction-Mathematical/dp/052154677X)	|	Problem solving	|	In progress	|
+| [Using the Borsuk-Ulam Theorem](https://link.springer.com/book/10.1007/978-3-540-76649-0)	|	Problem solving	|	Not started	|
 |	|	|
 | [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)      | Linear algebra      | Done   |	Great coverage and motivation by Gilbert Strang	|
 | [Linear Algebra Done Right](https://linear.axler.net/)	|	Linear algebra	|	In progress	|	A more rigorous exposure to linalg, with a bit more advanced topics	|
