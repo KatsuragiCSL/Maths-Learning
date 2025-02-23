@@ -41,7 +41,7 @@ Learning catalogs on Maths courses, books etc.
 | [EE364b: Convex Optimization II](https://stanford.edu/class/ee364b/index.html), [Lectures](http://videolectures.net/stanfordee364bs08_convex_optimization2/)      | Optimizations      | Not started   |
 | [MIT 18.385J Nonlinear Dynamics And Chaos](https://ocw.mit.edu/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/)      | Chaos      | Not started   |
 |	|	|
-| [Topology](https://www.amazon.com/-/en/James-Munkres/dp/0134689518/)	|	Topology	|	Not started	|	Read once before, I think I would have more insights if I reread it now	|
+| [Topology](https://www.amazon.com/-/en/James-Munkres/dp/0134689518/)	|	Topology	|	In progress	|	Read once before, I think I would have more insights if I reread it now	|
 | [MATH7450 Topics in Topology: Scientific and Engineering Applications of Algebraic Topology](http://homepage.math.uiowa.edu/~idarcy/COURSES/TDA/TDAprelectures.html)      | Topology      | Not started   |
 | [MIT 18.905 Algebraic Topology I](https://ocw.mit.edu/courses/18-905-algebraic-topology-i-fall-2016/)      | Topology      | Not started   |
 | [MIT 18.906 Algebraic Topology II](https://ocw.mit.edu/courses/18-906-algebraic-topology-ii-spring-2020/)      | Topology      | Not started   |
