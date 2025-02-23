@@ -74,3 +74,4 @@ Learning catalogs on Maths courses, books etc.
 | [MIT 6.842 Randomness and Computation](https://people.csail.mit.edu/ronitt/COURSE/S22/index.html)      | Computational theory      | Not started   |
 |	|	|
 | [MIT 5.95J Teaching College-Level Science And Engineering](https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/)      | Teaching      | Not started   |
+| [The Real Numbers](https://www.amazon.com/Real-Numbers-Introduction-Undergraduate-Mathematics/dp/3319015761)	|	Set theory, topology	|	In progress	|
